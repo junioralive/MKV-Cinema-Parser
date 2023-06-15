@@ -1,9 +1,9 @@
 # MKV Cinema Parser
 
-WHAT IS THIS?
+#WHAT IS THIS?
 This a Parser that can scrape movies from https://mkvcinemas.lat and get all the streaming links and upload direct streaming links to telegram channel.
 
-HOW DOES IT WORK?
+# HOW DOES IT WORK?
 
 1. It uses Selenium to scrape links from https://mkvcinemas.lat
 2. It then uses selenium to bypass all the advertisement/shortner process
@@ -11,7 +11,7 @@ HOW DOES IT WORK?
 4. It uses Rentry api to create a rentry text file
 5. It then upload the rentry link to telegram channel
 
-DEMO:
+# DEMO:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MfaWeE52syA/0.jpg)](https://www.youtube.com/watch?v=MfaWeE52syA)
 
