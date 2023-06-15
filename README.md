@@ -18,6 +18,7 @@ DEMO:
 ISSUE:
 Recaptcha - Solving Recaptcha takes some time as the website using hidden script for recaptcha
 
-FOR SOURCE CODE CONTACT ME:
+FOR SOURCE CODE CONTACT ME: https://t.me/TheJuniorAlive 
+MOVIE CHANNEL: https://t.me/spytvmoviesofficial
 
-https://t.me/TheJuniorAlive
+SPECIAL CREDIT: https://github.com/DedInc/byerecaptcha
