@@ -13,7 +13,7 @@ HOW DOES IT WORK?
 
 DEMO:
 
-https://www.youtube.com/embed/MfaWeE52syA
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MfaWeE52syA/0.jpg)](https://www.youtube.com/watch?v=MfaWeE52syA)
 
 ISSUE:
 Recaptcha - Solving Recaptcha takes some time as the website using hidden script for recaptcha
